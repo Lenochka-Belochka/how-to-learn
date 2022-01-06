@@ -2,7 +2,7 @@
 
 .feynman{
     box-sizing: border-box;
-    height: 890px;
+    min-height: 890px;
     position: relative;
     background-image: url(../../images/feynman.png);
     background-repeat: no-repeat;
