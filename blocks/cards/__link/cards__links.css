@@ -1,0 +1,9 @@
+.cards__links {
+  color: black;
+  text-decoration: underline;
+  transition: opacity .4s ease;
+}
+
+.header__link:hover {
+  opacity: 0.5;
+}
